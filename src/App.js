@@ -27,6 +27,10 @@ function App() {
       <section className="projects">
   <h2>Projects</h2>
   <ul>
+  <li>
+      <strong>This personal website</strong> – Through this process, I utilized React, JS, and CSS to create a static website. The CSS wsa used mainly for the styling aspect and the JS for the information on the page. It was interesting to play around with react but the hardest part in all honestly was deploying the website on github pages. Additionally, I strugged with lining the information on the page to fit the design ideas I had in mind. 
+      I enjoyed how straightforward react is to understand, along with how CSS allows us to create different settings for different parts of the page. 
+    </li>
     <li>
       <strong>Detect and Defend</strong> – Led a team to develop a Python-based machine learning model aimed at attacking Federated Learning models using the LeNet-5 architecture. The project focused on highlighting vulnerabilities in decentralized learning systems, achieving high accuracy in attack simulations.
 
