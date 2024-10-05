@@ -2,9 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+Image of Website 
 
-In the project directory, you can run:
+<img width="1137" alt="Screenshot 2024-10-04 at 9 50 44 PM" src="https://github.com/user-attachments/assets/6565ef4a-7133-4e64-98fb-66bdb7bc8e6e">
 
 ### `npm start`
 
